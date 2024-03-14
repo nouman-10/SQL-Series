@@ -32,7 +32,7 @@ WHERE ChannelName IN ('Cooking101', 'FoodLovers');
 
 UPDATE YoutubeChannel
 SET Category = 'Fitness'
-WHERE ChannelName IN ('WorkoutGuru', 'FitnessFantastic');
+WHERE ChannelName IN ('WorkoutGuru', 'FitnessFanatic');
 
 UPDATE YoutubeChannel
 SET Category = 'Misc'
